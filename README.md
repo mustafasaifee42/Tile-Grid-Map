@@ -1,5 +1,5 @@
 # Tile Grid Map JSON File
-JSON file with the coordinate for world tile grid map. This JSON file is generated using the [Tile Grid Map arrangement](https://policyviz.com/2017/10/12/the-world-tile-grid-map/) by [Jon Schwabish](https://twitter.com/jschwabish) and the [ISO-3166-Countries-with-Regional-Codes database](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) by [Luke Duncalfe](https://github.com/lukes)**(There are a few of differences between Jon's Tile grid map arrangement and the json file: India; Sri Lanka and Maldives are moved one unit up)**.
+JSON file with the coordinate for world tile grid map. This JSON file is generated using the [Tile Grid Map arrangement](https://policyviz.com/2017/10/12/the-world-tile-grid-map/) by [Jon Schwabish](https://twitter.com/jschwabish) and the [ISO-3166-Countries-with-Regional-Codes database](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) by [Luke Duncalfe](https://github.com/lukes)**(There are a few of differences between Jon's Tile grid map arrangement and the json file: India; Sri Lanka and Maldives are moved one unit up)**
 
 I used the excel file provided by Jon [here](http://policyviz.com/wp-content/uploads/2017/10/PolicyViz_WorldTGM.xlsx); and converted it to csv and then used a python script to combine that with the country list.
 
